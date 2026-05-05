@@ -23,9 +23,9 @@ import time
 # ─────────────────────────────────────────
 # CONFIGURAZIONE
 # ─────────────────────────────────────────
-TRAIL_LENGTH      = 120
-SENSITIVITY       = 25
-MIN_AREA          = 500
+TRAIL_LENGTH      = 100
+SENSITIVITY       = 100
+MIN_AREA          = 1500
 BLUR_RADIUS       = 21
 
 TRAIL_COLOR_START = (0, 255, 100)
